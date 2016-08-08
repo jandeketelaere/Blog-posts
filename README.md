@@ -24,3 +24,5 @@
   * http://enterprisecraftsmanship.com/2016/06/15/pragmatic-unit-testing/
 * FUTURE PROOF
   * http://kranglefant.tumblr.com/post/131808192355/future-proof
+* OUT OF THE TAR PIT
+ * http://elegantcode.com/2014/05/09/out-of-the-tar-pit/
