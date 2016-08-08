@@ -1,4 +1,4 @@
-# Blogs
+# Interesting blogs
 
 * Trying to impress people with your code
   * http://enterprisecraftsmanship.com/2016/03/24/trying-to-impress-people-with-your-code/
