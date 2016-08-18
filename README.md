@@ -1,4 +1,4 @@
-# Interesting blogs
+# Interesting blog posts
 
 * Trying to impress people with your code
   * http://enterprisecraftsmanship.com/2016/03/24/trying-to-impress-people-with-your-code/
@@ -26,3 +26,5 @@
   * http://kranglefant.tumblr.com/post/131808192355/future-proof
 * OUT OF THE TAR PIT
  * http://elegantcode.com/2014/05/09/out-of-the-tar-pit/
+* MEMO ON O-RING AND SOFTWARE EROSION
+ * http://elegantcode.com/2016/03/03/memo-on-o-ring-and-software-erosion/
