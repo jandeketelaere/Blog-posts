@@ -28,3 +28,5 @@
  * http://elegantcode.com/2014/05/09/out-of-the-tar-pit/
 * MEMO ON O-RING AND SOFTWARE EROSION
  * http://elegantcode.com/2016/03/03/memo-on-o-ring-and-software-erosion/
+* The Deadly Cycle of Meetingitis
+ * http://www.secretgeek.net/meetingitis 
