@@ -29,4 +29,6 @@
 * MEMO ON O-RING AND SOFTWARE EROSION
  * http://elegantcode.com/2016/03/03/memo-on-o-ring-and-software-erosion/
 * The Deadly Cycle of Meetingitis
- * http://www.secretgeek.net/meetingitis 
+ * http://www.secretgeek.net/meetingitis
+* Dependency Injection Is NOT The Same As The Dependency Inversion Principle 
+ * https://lostechies.com/derickbailey/2011/09/22/dependency-injection-is-not-the-same-as-the-dependency-inversion-principle/
