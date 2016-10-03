@@ -34,3 +34,5 @@
  * https://lostechies.com/derickbailey/2011/09/22/dependency-injection-is-not-the-same-as-the-dependency-inversion-principle/
 * Decoupling decisions from effects
  * http://blog.ploeh.dk/2016/09/26/decoupling-decisions-from-effects/
+* The egoless programmer
+ * https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html
