@@ -36,3 +36,5 @@
  * http://blog.ploeh.dk/2016/09/26/decoupling-decisions-from-effects/
 * The egoless programmer
  * https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html
+* Poka-yoke Design: From Smell to Fragrance
+ * http://blog.ploeh.dk/2011/05/24/Poka-yokeDesignFromSmelltoFragrance/
