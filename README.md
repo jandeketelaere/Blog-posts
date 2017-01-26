@@ -38,3 +38,7 @@
  * https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html
 * Poka-yoke Design: From Smell to Fragrance
  * http://blog.ploeh.dk/2011/05/24/Poka-yokeDesignFromSmelltoFragrance/
+* Meanwhile... on the command side of my architecture
+ * https://cuttingedge.it/blogs/steven/pivot/entry.php?id=91
+* Meanwhile... on the query side of my architecture
+ * https://www.cuttingedge.it/blogs/steven/pivot/entry.php?id=92
