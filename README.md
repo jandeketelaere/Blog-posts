@@ -42,3 +42,5 @@
  * https://cuttingedge.it/blogs/steven/pivot/entry.php?id=91
 * Meanwhile... on the query side of my architecture
  * https://www.cuttingedge.it/blogs/steven/pivot/entry.php?id=92
+* Interfaces for repositories: do or don’t?
+ * http://enterprisecraftsmanship.com/2017/03/02/interfaces-for-repositories-do-or-dont/
