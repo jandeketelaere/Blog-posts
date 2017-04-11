@@ -44,3 +44,5 @@
  * https://www.cuttingedge.it/blogs/steven/pivot/entry.php?id=92
 * Interfaces for repositories: do or don’t?
  * http://enterprisecraftsmanship.com/2017/03/02/interfaces-for-repositories-do-or-dont/
+* Less is more: language features
+ * http://blog.ploeh.dk/2015/04/13/less-is-more-language-features/
