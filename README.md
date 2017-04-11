@@ -27,22 +27,22 @@
 * OUT OF THE TAR PIT
  * http://elegantcode.com/2014/05/09/out-of-the-tar-pit/
 * MEMO ON O-RING AND SOFTWARE EROSION
- * http://elegantcode.com/2016/03/03/memo-on-o-ring-and-software-erosion/
+  * http://elegantcode.com/2016/03/03/memo-on-o-ring-and-software-erosion/
 * The Deadly Cycle of Meetingitis
- * http://www.secretgeek.net/meetingitis
+  * http://www.secretgeek.net/meetingitis
 * Dependency Injection Is NOT The Same As The Dependency Inversion Principle 
- * https://lostechies.com/derickbailey/2011/09/22/dependency-injection-is-not-the-same-as-the-dependency-inversion-principle/
+  * https://lostechies.com/derickbailey/2011/09/22/dependency-injection-is-not-the-same-as-the-dependency-inversion-principle/
 * Decoupling decisions from effects
- * http://blog.ploeh.dk/2016/09/26/decoupling-decisions-from-effects/
+  * http://blog.ploeh.dk/2016/09/26/decoupling-decisions-from-effects/
 * The egoless programmer
- * https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html
+  * https://8thlight.com/blog/daniel-irvine/2016/09/30/the-egoless-programmer.html
 * Poka-yoke Design: From Smell to Fragrance
- * http://blog.ploeh.dk/2011/05/24/Poka-yokeDesignFromSmelltoFragrance/
+  * http://blog.ploeh.dk/2011/05/24/Poka-yokeDesignFromSmelltoFragrance/
 * Meanwhile... on the command side of my architecture
- * https://cuttingedge.it/blogs/steven/pivot/entry.php?id=91
+  * https://cuttingedge.it/blogs/steven/pivot/entry.php?id=91
 * Meanwhile... on the query side of my architecture
- * https://www.cuttingedge.it/blogs/steven/pivot/entry.php?id=92
+  * https://www.cuttingedge.it/blogs/steven/pivot/entry.php?id=92
 * Interfaces for repositories: do or don’t?
- * http://enterprisecraftsmanship.com/2017/03/02/interfaces-for-repositories-do-or-dont/
+  * http://enterprisecraftsmanship.com/2017/03/02/interfaces-for-repositories-do-or-dont/
 * Less is more: language features
- * http://blog.ploeh.dk/2015/04/13/less-is-more-language-features/
+  * http://blog.ploeh.dk/2015/04/13/less-is-more-language-features/
