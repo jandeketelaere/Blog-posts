@@ -48,3 +48,5 @@
   * http://blog.ploeh.dk/2015/04/13/less-is-more-language-features/
 * Simple holidays
   * http://blog.ploeh.dk/2017/04/24/simple-holidays/
+* The Configuration Complexity Clock
+  * http://mikehadlow.blogspot.be/2012/05/configuration-complexity-clock.html
