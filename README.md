@@ -25,7 +25,7 @@
 * FUTURE PROOF
   * http://kranglefant.tumblr.com/post/131808192355/future-proof
 * OUT OF THE TAR PIT
- * http://elegantcode.com/2014/05/09/out-of-the-tar-pit/
+  * http://elegantcode.com/2014/05/09/out-of-the-tar-pit/
 * MEMO ON O-RING AND SOFTWARE EROSION
   * http://elegantcode.com/2016/03/03/memo-on-o-ring-and-software-erosion/
 * The Deadly Cycle of Meetingitis
@@ -50,3 +50,5 @@
   * http://blog.ploeh.dk/2017/04/24/simple-holidays/
 * The Configuration Complexity Clock
   * http://mikehadlow.blogspot.be/2012/05/configuration-complexity-clock.html
+* Pairing with Junior Developers
+  * https://www.devmynd.com/blog/2015-1-pairing-with-junior-developers/
