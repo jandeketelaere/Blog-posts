@@ -54,3 +54,5 @@
   * https://www.devmynd.com/blog/2015-1-pairing-with-junior-developers/
 * Dependency rejection
   * http://blog.ploeh.dk/2017/02/02/dependency-rejection/
+* Functional programming design patterns
+  * https://vimeo.com/113588389
