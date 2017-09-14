@@ -54,3 +54,5 @@
   * https://www.devmynd.com/blog/2015-1-pairing-with-junior-developers/
 * Dependency rejection
   * http://blog.ploeh.dk/2017/02/02/dependency-rejection/
+* Reduce Bad Code with Code Reviews
+  * http://www.dotnetcurry.com/software-gardening/1351/types-of-code-review-benefits
