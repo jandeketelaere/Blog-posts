@@ -58,3 +58,5 @@
   * http://www.dotnetcurry.com/software-gardening/1351/types-of-code-review-benefits
 * Turning the database inside-out with Apache Samza
   * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/
+* Wizards and warriors
+  * https://ericlippert.com/2015/04/27/wizards-and-warriors-part-one/
