@@ -60,3 +60,5 @@
   * https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/
 * Wizards and warriors
   * https://ericlippert.com/2015/04/27/wizards-and-warriors-part-one/
+* From design patterns to category theory
+  * http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/
