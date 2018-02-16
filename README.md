@@ -62,3 +62,5 @@
   * https://ericlippert.com/2015/04/27/wizards-and-warriors-part-one/
 * From design patterns to category theory
   * http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/
+* Leaking domain knowledge to tests
+  * http://enterprisecraftsmanship.com/2018/01/30/leaking-domain-knowledge-tests/
