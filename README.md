@@ -64,3 +64,5 @@
   * http://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory/
 * Leaking domain knowledge to tests
   * http://enterprisecraftsmanship.com/2018/01/30/leaking-domain-knowledge-tests/
+* When to Create a New C# Class Definition
+  * https://odetocode.com/blogs/scott/archive/2018/02/13/when-to-create-a-new-c-class-definition.aspx
