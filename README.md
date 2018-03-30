@@ -66,3 +66,5 @@
   * http://enterprisecraftsmanship.com/2018/01/30/leaking-domain-knowledge-tests/
 * When to Create a New C# Class Definition
   * https://odetocode.com/blogs/scott/archive/2018/02/13/when-to-create-a-new-c-class-definition.aspx
+* The Truth About Cursors: Part 1
+  * http://bradsruminations.blogspot.be/2010/05/truth-about-cursors-part-1.html
