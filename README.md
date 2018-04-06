@@ -68,3 +68,5 @@
   * https://odetocode.com/blogs/scott/archive/2018/02/13/when-to-create-a-new-c-class-definition.aspx
 * The Truth About Cursors: Part 1
   * http://bradsruminations.blogspot.be/2010/05/truth-about-cursors-part-1.html
+* Waarom de baas van Buurtzorg de baas van Nederland zou moeten zijn
+  * https://decorrespondent.nl/5147/waarom-de-baas-van-buurtzorg-de-baas-van-nederland-zou-moeten-zijn/197876415-4c77c222
