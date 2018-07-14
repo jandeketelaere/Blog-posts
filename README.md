@@ -74,5 +74,3 @@
   * https://decorrespondent.nl/7772/hoe-deze-basketbalbaas-de-vergadering-op-je-werk-kan-verbeteren/2318406594768-94c2ed30
 * Programming Sucks
   * https://www.stilldrinking.org/programming-sucks
-* Dependency Injection revisited
-  * https://www.youtube.com/watch?v=4hvIwRHylj0
