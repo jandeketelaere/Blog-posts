@@ -72,3 +72,7 @@
   * https://decorrespondent.nl/5147/waarom-de-baas-van-buurtzorg-de-baas-van-nederland-zou-moeten-zijn/197876415-4c77c222
 * Hoe deze basketbalbaas de vergadering op je werk kan verbeteren
   * https://decorrespondent.nl/7772/hoe-deze-basketbalbaas-de-vergadering-op-je-werk-kan-verbeteren/2318406594768-94c2ed30
+* Programming Sucks
+  * https://www.stilldrinking.org/programming-sucks
+* Dependency Injection revisited
+  * https://www.youtube.com/watch?v=4hvIwRHylj0
