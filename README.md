@@ -74,3 +74,5 @@
   * https://decorrespondent.nl/7772/hoe-deze-basketbalbaas-de-vergadering-op-je-werk-kan-verbeteren/2318406594768-94c2ed30
 * Programming Sucks
   * https://www.stilldrinking.org/programming-sucks
+* Async Guidance
+  * https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md
