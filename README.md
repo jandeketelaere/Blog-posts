@@ -76,3 +76,5 @@
   * https://www.stilldrinking.org/programming-sucks
 * Async Guidance
   * https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md
+* Decoupling, Architecture and Teams
+  * http://mikehadlow.blogspot.com/2018/11/decoupling-architecture-and-teams.html
