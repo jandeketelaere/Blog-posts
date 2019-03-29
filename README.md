@@ -80,3 +80,5 @@
   * http://mikehadlow.blogspot.com/2018/11/decoupling-architecture-and-teams.html
 * Functional Programming and LINQ via C#
   * https://weblogs.asp.net/dixin/book
+* Asynchronous Injection
+  * https://blog.ploeh.dk/2019/02/11/asynchronous-injection/
