@@ -82,3 +82,5 @@
   * https://weblogs.asp.net/dixin/book
 * Asynchronous Injection
   * https://blog.ploeh.dk/2019/02/11/asynchronous-injection/
+* Monads in C#
+  * http://mikehadlow.blogspot.com/2011/01/monads-in-c1-introduction.html
