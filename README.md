@@ -84,5 +84,5 @@
   * https://blog.ploeh.dk/2019/02/11/asynchronous-injection/
 * Monads in C#
   * http://mikehadlow.blogspot.com/2011/01/monads-in-c1-introduction.html
-* Pipeline Pattern in C# (part 2) with TPL Dataflow
-  * https://michaelscodingspot.com/pipeline-pattern-tpl-dataflow/
+* Performance Showdown of Producer/Consumer (Job Queues) Implementations in C# .NET
+  * https://michaelscodingspot.com/performance-of-producer-consumer/
