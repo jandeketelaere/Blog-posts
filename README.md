@@ -86,3 +86,7 @@
   * http://mikehadlow.blogspot.com/2011/01/monads-in-c1-introduction.html
 * Performance Showdown of Producer/Consumer (Job Queues) Implementations in C# .NET
   * https://michaelscodingspot.com/performance-of-producer-consumer/
+* Category Theory for Programmers
+  * https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+* Refactoring registration flow to functional architecture
+  * https://blog.ploeh.dk/2019/12/02/refactoring-registration-flow-to-functional-architecture/
