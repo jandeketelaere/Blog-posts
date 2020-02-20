@@ -90,3 +90,5 @@
   * https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
 * Refactoring registration flow to functional architecture
   * https://blog.ploeh.dk/2019/12/02/refactoring-registration-flow-to-functional-architecture/
+* Copy/paste culture
+  * https://thedailywtf.com/articles/copy-paste-culture
