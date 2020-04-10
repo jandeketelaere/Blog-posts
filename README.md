@@ -92,3 +92,5 @@
   * https://blog.ploeh.dk/2019/12/02/refactoring-registration-flow-to-functional-architecture/
 * Copy/paste culture
   * https://thedailywtf.com/articles/copy-paste-culture
+* Repeatable execution in C#
+  * https://blog.ploeh.dk/2020/04/06/repeatable-execution-in-c/
