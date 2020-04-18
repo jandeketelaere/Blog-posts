@@ -96,3 +96,5 @@
   * https://blog.ploeh.dk/2020/04/06/repeatable-execution-in-c/
 * Introduction to Functional Programming in F#
   * https://www.softwarepark.cc/blog/2019/9/12/introduction-to-functional-programming-in-f
+* F# Error Handling with 'Result'
+  * https://dev.to/jhewlett/f-error-handling-with-result-35mi
