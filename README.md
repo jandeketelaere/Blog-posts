@@ -94,3 +94,5 @@
   * https://thedailywtf.com/articles/copy-paste-culture
 * Repeatable execution in C#
   * https://blog.ploeh.dk/2020/04/06/repeatable-execution-in-c/
+* Introduction to Functional Programming in F#
+  * https://www.softwarepark.cc/blog/2019/9/12/introduction-to-functional-programming-in-f
