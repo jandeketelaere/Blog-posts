@@ -98,3 +98,5 @@
   * https://www.softwarepark.cc/blog/2019/9/12/introduction-to-functional-programming-in-f
 * F# Error Handling with 'Result'
   * https://dev.to/jhewlett/f-error-handling-with-result-35mi
+* Dare to be Good Enough—You'll be Happier for it
+  * https://8thlight.com/blog/thomas-countz/2020/10/06/dare-to-be-good-enough.html
