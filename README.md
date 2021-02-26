@@ -102,3 +102,5 @@
   * https://8thlight.com/blog/thomas-countz/2020/10/06/dare-to-be-good-enough.html
 * The magical journey to Functional Wonderland
   * https://impure.fun/fun/2021/02/16/journey-to-functional-wonderland/
+* Crafting Interpreters
+  * https://craftinginterpreters.com/contents.html
