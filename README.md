@@ -104,3 +104,5 @@
   * https://impure.fun/fun/2021/02/16/journey-to-functional-wonderland/
 * Crafting Interpreters
   * https://craftinginterpreters.com/contents.html
+* The Universality of Postel's Law
+  * https://michaelfeathers.silvrback.com/the-universality-of-postel-s-law
