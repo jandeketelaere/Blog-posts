@@ -106,3 +106,5 @@
   * https://craftinginterpreters.com/contents.html
 * The Universality of Postel's Law
   * https://michaelfeathers.silvrback.com/the-universality-of-postel-s-law
+* Changing your organisation
+  * https://blog.ploeh.dk/2021/12/20/changing-your-organisation/
