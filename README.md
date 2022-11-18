@@ -108,3 +108,5 @@
   * https://michaelfeathers.silvrback.com/the-universality-of-postel-s-law
 * Changing your organisation
   * https://blog.ploeh.dk/2021/12/20/changing-your-organisation/
+* STOP Over-Engineering Software!
+  * https://codeopinion.com/stop-over-engineering-software/
