@@ -110,3 +110,5 @@
   * https://blog.ploeh.dk/2021/12/20/changing-your-organisation/
 * STOP Over-Engineering Software!
   * https://codeopinion.com/stop-over-engineering-software/
+* How To Learn Programming
+  * https://8thlight.com/insights/how-to-learn-programming
