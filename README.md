@@ -112,3 +112,5 @@
   * https://codeopinion.com/stop-over-engineering-software/
 * How To Learn Programming
   * https://8thlight.com/insights/how-to-learn-programming
+* Design Patterns: Who gives a 💩?
+  * https://codeopinion.com/design-patterns-who-gives-a/
